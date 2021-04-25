@@ -1,0 +1,37 @@
+body {
+	background: #708090;
+}
+
+.header {
+	color: orange;
+	font-size: 30px;
+	text-align: center;
+}
+
+.content {
+	color: maroon;
+	font-size: 20px;
+	text-align: center;
+}
+
+.sites {
+	border: 2px solid #5a1c2f;
+}
+
+.site {
+	color: lightblue;
+	font-size: 18px;
+	text-align: center;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: silver;
+}
