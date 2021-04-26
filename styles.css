@@ -3,29 +3,29 @@ body {
 }
 
 .header {
-	color: orange;
-	font-size: 30px;
+	color: black;
+	font-size: 40px;
 	text-align: center;
 }
 
 .content {
-	color: maroon;
-	font-size: 20px;
+	color: yellow;
+	font-size: 30px;
 	text-align: center;
 }
 
 .sites {
-	border: 2px solid #5a1c2f;
+	border: 2px #5a1c2f;
 }
 
 .site {
-	color: lightblue;
-	font-size: 18px;
+	color: dark green;
+	font-size: 25px;
 	text-align: center;
 }
 
 a:link {
-  color: red;
+  color: blue;
 }
 
 a:visited {
@@ -33,5 +33,5 @@ a:visited {
 }
 
 a:hover {
-  color: silver;
+  color: white;
 }
